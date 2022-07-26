@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanInstAmountCalculatorAPI", "LoanInstAmountCalculatorAPI\LoanInstAmountCalculatorAPI.csproj", "{BAC85DAD-31A2-4C26-B15A-82CA616DF735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC85DAD-31A2-4C26-B15A-82CA616DF735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC85DAD-31A2-4C26-B15A-82CA616DF735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC85DAD-31A2-4C26-B15A-82CA616DF735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC85DAD-31A2-4C26-B15A-82CA616DF735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C9FBD1-102A-4D33-80C5-4775B7CD0B11}
+	EndGlobalSection
+EndGlobal
